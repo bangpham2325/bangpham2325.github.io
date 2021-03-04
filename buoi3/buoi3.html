@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            
+            background: blueviolet;
+            max-width: 960px;
+            max-height: 1000px;
+            margin: 0 auto;
+            padding: 5px;
+
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            color: white;
+            margin: 10px;
+            text-align: center;
+        }
+
+        .box_red {
+            position: relative;
+            background-color: red;
+            top:10px;
+            z-index: 3;
+            box-shadow: 20px 10px 20px black;
+            border: 1px solid black;
+        }
+
+        .box_green {
+            position: absolute;
+            top:2px;
+            z-index: 1;
+            border: 1px solid gold;
+            background-color: green;
+        }
+        .box_pink{
+            position: absolute;
+            top:5px;
+            background-color: pink;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="container" style="display: flex;">
+        <div class="box box_red">1</div>
+        <div class="box box_green">
+            <div class="box box_pink">3</div>
+        </div>
+        
+    </div>
+    <div style="width: 200px; height: 500px; border: 1px solid black;">
+        <div style="position: fixed; background-color: red" >xin chao</div>
+    </div>
+</body>
+
+</html>
