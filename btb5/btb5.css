@@ -1,0 +1,371 @@
+.header{
+    width: auto;
+    height: 2000px;
+    background-color: #170f23;
+}
+div.musics{
+    display: flex;
+}
+
+.Music{
+    
+    width: 20%;
+    margin: 2%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 5px;
+    position: relative;
+}
+.background1,
+.background{
+    
+    width: 100%;
+    height: 85%;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    position: absolute;
+    opacity: 1;
+
+}
+.background1{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: rgba(0,0,0,0.6);
+    opacity: 1;
+    z-index: 3;
+    cursor: pointer;
+}
+.NameMusic{
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+/* rgba(0,0,0,0.6); */
+
+img{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+   
+    
+}
+
+
+div.Music img{
+    transition: transform 0.5s ease-out;
+}
+
+.NameMusic h4 >a{
+color: #ffffff;
+border-color:#ffffff;
+font-family:Inter;
+font-size:14px;
+font-weight:500;
+line-height:19.04px;
+text-decoration: none;
+cursor: pointer;
+}
+
+.NameMusic h4 a:hover{
+    color: #c662ef;
+    border-color:#c662ef ;
+}
+ 
+
+.iconImg,
+.icon{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    opacity: 0;
+
+}
+
+.icon div >i{
+    color: white;
+}
+.icon div >i{
+    color: white;
+    font-size: 15px;
+}
+.icon2{
+    width: 30px;
+    height: 30px;
+    
+    opacity: 1;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    
+}
+.Music img:hover .background1{
+    opacity: 1;
+    z-index: 3;
+}
+
+.Music img:hover .icon{
+    opacity: 1;
+}
+.background1:hover img{
+    transform: scale(1.1);
+    z-index: 0;
+    opacity: 0.7;
+} 
+.background1:hover .icon{
+    opacity: 1;
+    z-index: 4;
+}
+
+/* .icon :hover div.Music img{
+    transform: scale(1.1);
+    z-index: 0;
+    opacity: 0.8;
+    
+} */
+.icon2:hover{
+    background-color: #b6b6b6;
+    
+}
+.NewMedia,
+.NewRelease{
+    display: flex;
+    background-color: #170f23;
+}
+.Media,
+.MusicNew{
+    
+    width: 33%;
+    height: 120px;
+    padding: 10px;
+    margin: 2%;
+    overflow: hidden;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    text-align: left;
+    position: relative;
+    background-color:#332a3d;
+    z-index: 0;
+    opacity: 0.9;
+    cursor: pointer;
+   
+}
+.Media{
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+}
+.MusicNewImg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 120px;
+    height: 120px;
+    
+}
+.backgroundImgNew{
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    overflow: hidden;
+    left: 10px;
+    border-radius: 4px;
+    margin: 0 auto;
+    z-index: 4;
+    
+    
+    
+}
+.backgroundImgNew figure{
+    line-height: 0;
+    height: 120;
+    padding-bottom: 100%;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5px;
+    overflow: hidden;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    z-index: 4;
+    position: absolute;
+}
+.backgroundImgNew:hover div.backgroundImgNew.icon{
+    z-index: 10;
+    opacity: 1;
+}
+.backgroundImgNew figure>img{
+    transition: transform 0.5s ease-out;
+   
+
+}
+.backgroundImgNew:hover{
+    z-index: 1;
+}
+.backgroundImgNew:hover figure>img{
+    transform: scale(1.2);
+    opacity: 0.7;
+    z-index: 4;
+}
+.backgroundImgNew:hover figure{
+    z-index: 2;
+}
+.NewContent{
+    position: absolute;
+    height: 120px;
+    width: 60%;
+    right: 10px;
+    max-width: 0 auto;
+    z-index: 10;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    flex-direction: column;
+    /* justify-content: space-between; */
+
+ 
+}
+.rating{
+    width: 95%;
+    height: 40px;
+   
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    
+
+}
+.rating_spanLeft{
+    width: 45px;
+    height: 46px;
+    font-size: 40px;
+    font-weight: 900;
+    color: #FFFFFF80;
+    border-color: #FFFFFF80;
+    position:absolute;
+    left: 5px;
+    margin: 0 auto;
+    float: left;
+}
+.rating_spanRight{
+    width: 72px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: 900;
+    color: #FFFFFF80;
+    border-color: #FFFFFF80;
+    position:absolute;
+    float: right;
+    right: 5px;
+    top: 20px;
+    margin:auto;
+}
+.MediaImg{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    overflow: hidden;
+    left: 10px;
+    border-radius: 4px;
+    margin: 0 auto;
+    z-index: 4;
+}
+.MediaImg  figure{
+    height: 40px;
+    width: 40px;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5px;
+    overflow: hidden;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    z-index: 4;
+    position: absolute;
+}
+.Media_content{
+    position: absolute;
+    height: 40px;
+    width: 80%;
+    right: 10px;
+    max-width: 0 auto;
+    z-index: 10;
+    display: flex;
+    border-radius: 5px;
+    flex-direction: column;
+    /* justify-content: space-between; */
+
+ 
+}
+.Media_icon1{
+    height: 32px;
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 40px;
+    bottom: 5px;
+    border-radius: 50%;
+    
+    opacity: 0;
+
+}
+.Media_icon2{
+    height: 32px;
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    opacity: 0;
+}
+.iconImg{
+    opacity: 0;
+}
+.Media_icon1:hover{
+    background-color: #b6b6b6; 
+}
+.Media_icon2:hover{
+    background-color: #b6b6b6; 
+}
+.Media:hover{
+    background-color: #332a3d;
+
+}
+
+.Media:hover .Media_icon1{
+    opacity: 1;
+}
+.Media:hover .Media_icon2{
+    opacity: 1;
+}
+.Media:hover .iconImg{
+    opacity: 1;
+}
+.Media_content h3 :hover a{
+    color: #c662ef;
+    border-color:#c662ef ;
+}
