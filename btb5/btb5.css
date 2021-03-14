@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .header{
     width: auto;
     height: 2000px;
@@ -36,6 +40,7 @@ div.musics{
     height: 100%;
     border-radius: 5px;
     margin-bottom: 10px;
+    padding-bottom: 10px;
     background-color: rgba(0,0,0,0.8);
     opacity: 1;
     z-index: 3;
@@ -45,8 +50,10 @@ div.musics{
     width: 100%;
     height: 20%;
     position: absolute;
-    bottom: 0;
+    bottom: -20px;
     left: 0;
+    padding-top: 20px;
+    margin-top: 20px;
 }
 /* rgba(0,0,0,0.6); */
 
@@ -88,6 +95,7 @@ cursor: pointer;
     justify-content:center;
     align-items: center;
     opacity: 0;
+    opacity: 0;z-index: 1;
 
 }
 
@@ -99,6 +107,8 @@ cursor: pointer;
     font-size: 15px;
 }
 .icon2{
+    
+    
     width: 30px;
     height: 30px;
     
@@ -108,6 +118,9 @@ cursor: pointer;
     justify-content: center;
     align-items: center;
     margin: 0 10px;
+
+
+
     
 }
 .Music img:hover .background1{
@@ -152,15 +165,13 @@ cursor: pointer;
     margin: 2%;
     overflow: hidden;
     border-radius: 5px;
-    display: flex;
     align-items: center;
-    display: flex;
     text-align: left;
-    position: relative;
     background-color:#332a3d;
     z-index: 0;
     opacity: 0.9;
     cursor: pointer;
+    display: flex;
    
 }
 .Media{
@@ -177,25 +188,28 @@ cursor: pointer;
     height: 120px;
     
 }
+
 .backgroundImgNew{
-    width: 120px;
-    height: 120px;
+    height: 20vh;
+    width: 10vw;
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
     overflow: hidden;
     left: 10px;
     border-radius: 4px;
     margin: 0 auto;
     z-index: 4;
+
+    padding-right: 10px;
     
     
     
 }
 .backgroundImgNew figure{
     line-height: 0;
-    height: 120;
+    height: 20vh;
+    width: 10vw;
     padding-bottom: 100%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 5px;
@@ -204,7 +218,6 @@ cursor: pointer;
     padding: 0px;
     margin: 0px;
     z-index: 4;
-    position: absolute;
 }
 .backgroundImgNew:hover div.backgroundImgNew.icon{
     z-index: 10;
@@ -223,18 +236,23 @@ cursor: pointer;
     opacity: 0.5;
     z-index: 4;
 }
+.backgroundImgNew :hover .icon{
+    opacity: 0.85;
+}
 .backgroundImgNew:hover figure{
     z-index: 2;
 }
+backgroundImgNew:hover figure .icon{
+    z-index: 4;
+    opacity: 1;
+}
 .NewContent{
-    position: absolute;
     height: 120px;
     width: 60%;
     right: 10px;
     max-width: 0 auto;
     z-index: 10;
     display: flex;
-    flex-wrap: wrap;
     border-radius: 5px;
     flex-direction: column;
     /* justify-content: space-between; */
@@ -244,10 +262,8 @@ cursor: pointer;
 .rating{
     width: 95%;
     height: 40px;
-   
-    position: absolute;
     bottom: 0px;
-    right: 5px;
+    padding-top: 30px;
     
 
 }
@@ -258,7 +274,6 @@ cursor: pointer;
     font-weight: 900;
     color: #FFFFFF80;
     border-color: #FFFFFF80;
-    position:absolute;
     left: 5px;
     margin: 0 auto;
     float: left;
@@ -270,20 +285,17 @@ cursor: pointer;
     font-weight: 900;
     color: #FFFFFF80;
     border-color: #FFFFFF80;
-    position:absolute;
     float: right;
-    right: 5px;
-    top: 20px;
+    padding-top: 20px;
     margin:auto;
 }
 .MediaImg{
-    height: 40px;
-    width: 40px;
+    height: 8vh;
+    width: 4vw;
     margin-right: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
     overflow: hidden;
     left: 10px;
     border-radius: 4px;
@@ -291,8 +303,8 @@ cursor: pointer;
     z-index: 4;
 }
 .MediaImg  figure{
-    height: 40px;
-    width: 40px;
+    height: 8vh;
+    width: 4vw;
     background-color: rgba(0,0,0,0.6);
     border-radius: 5px;
     overflow: hidden;
@@ -303,7 +315,6 @@ cursor: pointer;
     position: absolute;
 }
 .Media_content{
-    position: absolute;
     height: 40px;
     width: 80%;
     right: 10px;
@@ -311,7 +322,9 @@ cursor: pointer;
     z-index: 10;
     display: flex;
     border-radius: 5px;
+    padding-left: 20px;
     flex-direction: column;
+    position: relative;
     /* justify-content: space-between; */
 
  
@@ -368,4 +381,12 @@ cursor: pointer;
 .Media_content h3 :hover a{
     color: #c662ef;
     border-color:#c662ef ;
+}
+.name{
+    text-decoration: none;
+    color: #FFFFFF80 ;
+    font:12px Inter;
+}
+.name:hover {
+    color: rgb(198, 98, 239);
 }
