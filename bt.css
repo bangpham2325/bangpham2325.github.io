@@ -1,0 +1,348 @@
+.heder {
+    display: flex;
+    text-align: center;
+    background-color: rgb(40, 45, 48);
+    color: #f48847;
+}
+#a{
+    
+}
+.menu,
+.hearder-right {
+    width: 40%;
+}
+
+.title {
+    width: 20%;
+}
+
+.heder a {
+    text-decoration: none;
+    color: #f48847;
+}
+
+/* menu */
+.hearder-right ul,
+.menu ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.hearder-right ul {
+    float: right;
+}
+
+.hearder-right li,
+.menu li {
+    margin: 0 10px;
+    list-style-type: none;
+}
+
+/* title */
+
+.title {
+    text-align: center;
+}
+
+.content-wrapper {
+    padding: 4vw;
+    width: 100%;
+
+}
+
+.content-parent {
+    padding-bottom: 17px;
+}
+
+.content-parent h1 {
+    margin-bottom: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.content-parent p {
+    text-align: center;
+    color: white;
+}
+
+.image {
+    padding: 32px;
+    width: 100%;
+}
+
+.footer {
+
+    background-color: rgb(40, 45, 48);
+    padding: 25px;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 0;
+
+    /* width: 100%; */
+}
+
+.footer-bottom {
+
+    padding: 17px;
+    text-align: center;
+    margin-left: auto;
+    color: white;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+
+}
+
+.footer-center {
+    width: 50%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+}
+
+.footer-bottom ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+.footer-bottom li {
+
+    margin: 0 10px;
+    list-style-type: none;
+}
+.button {
+    background-color: #f48847;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+input{
+    width: 30%;
+    height: 35px;
+}
+.content{
+    width: 100%;
+    height: 40vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(40, 45, 48);
+
+}
+.content1{
+    width: 50%;
+    height: 100%;
+    
+
+}
+.content1 h2{
+    color: #f48847;
+ font-family:freight-text-pro;
+font-size: 42.648px;
+font-style: normal;
+font-weight: 500;
+letter-spacing: normal;
+line-height: 55.4083px;
+text-align: center;
+text-size-adjust: 100%;
+margin-bottom: 20px;
+}
+.section2{
+    width: 100%;
+    height: 100vh;
+    padding: 51px;
+    background-color: rgb(40, 45, 48);
+    display: flex;
+    box-sizing: border-box;
+}
+.section2_left{
+    width: 40%;
+    height: 100%;
+    margin-left: 10%;
+   
+}
+.section2_left1{
+    height: 80%;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.section2_left1 >img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.section2_right{
+    width: 25%;
+    height: 100%;
+    margin-left: 10%;
+
+}
+.section2_right1{
+    height: 50%;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.section2_right1 >img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.section2_left2{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+}
+.section2_right2{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+}
+
+.product-title{
+    
+    font-family: adobe-caslon-pro;
+font-size: 23.4936px;
+font-style :normal;
+font-weight: 300;
+letter-spacing: normal;
+line-height: 23.4936px;
+text-align: center;
+text-decoration-color: rgb(255, 255, 255);
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+.price{
+    font-family: adobe-caslon-pro;
+font-size :19.8792px;
+font-style: normal;
+font-weight: 300;
+letter-spacing: normal;
+line-height: 35.7826px;
+text-align: center;
+text-size-adjust: 100%;
+text-transform: none;
+color: rgb(255,255,255);
+}
+.product-content{
+    height: 30%;
+    width: 100%;
+    margin-top: 25%;
+}
+.product-content h3{
+ color: #f48847;
+ font-family: freight-text-pro;
+font-size :33.432px;
+font-style :normal;
+font-weight: 500;
+letter-spacing: normal;
+line-height: 44.5582px;
+text-align: center;
+text-size-adjust: 100%;
+text-transform: none;
+}
+.product-content h3 a{
+    color: #f48847;
+    font-family: freight-text-pro;
+font-size: 33.432px;
+font-style: normal;
+font-weight: 500;
+letter-spacing: normal;
+line-height: 44.5582px;
+text-align: center;
+text-decoration-color: rgb(244, 136, 71);
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 1px;
+text-size-adjust: 100%;
+}
+.section_backgroud{
+    width: 100%;
+    height: 120vh;
+    position: relative;
+   background-color:rgb(233, 206, 176) ; 
+}
+.section_backgroud1{
+    width: 55%;
+    height: 70%;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    margin: auto 5%;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1587664228476-WBQT4YIO1EXLAYGVY9KF/ke17ZwdGBToddI8pDm48kJpktGCvks3Pd1z5ExK0jYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UddLxmH4O4TdgQxr1F4me8ZqUVV6TrDG_Ns713t9r783cpu-Zk6lKH88UbVvLWepNQ/Florist0089.jpg");
+
+}
+.section_backgroud2{
+    width: 35%;
+    height: 45%;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    margin: auto ;
+    right: 5%;
+    background-color: white;
+    padding: 5%;
+    display: block ;
+    justify-content: center;
+    align-items: center;
+
+}
+.content_right1{
+    width: 100%;
+    height: 20%;
+    margin-top: 3%;
+    text-align: center;
+}
+.content_right1 h2{
+    width: 100%;
+    height: 100%;
+    font:42px freight-text-pro;
+    padding: 0px;
+    margin: 0px;
+}
+.content_right2{
+    width: 100%;
+    height: 50%;
+    text-align: left;
+    font:18px adobe-caslon-pro;
+    font-weight: 300;
+letter-spacing: normal;
+line-height: 32.5296px;
+text-align: left;
+}
+
+.content_right3{
+    width: 100%;
+    height: 20%;
+}
+.content_right3 a{
+    width: 50px;
+    height: 70px;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 18.072px;
+font-style: normal;
+    background: #f48847;
+    color: #fff;
+    text-decoration: none;
+}
+
