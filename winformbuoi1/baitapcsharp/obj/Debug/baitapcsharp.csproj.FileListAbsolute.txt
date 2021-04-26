@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\bin\Debug\baitapcsharp.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\bin\Debug\baitapcsharp.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\bin\Debug\baitapcsharp.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapcsharp\obj\Debug\baitapcsharp.pdb

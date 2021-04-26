@@ -1,0 +1,18 @@
+Time:     01/04/2021 4:12:54 CH
+State:     Access denied
+Time:     01/04/2021 4:12:56 CH
+State:     Access denied
+Time:     01/04/2021 4:12:58 CH
+State:     Access granted
+Time:     01/04/2021 4:13:07 CH
+State:     Access granted
+Time:     01/04/2021 4:13:10 CH
+State:     Access denied
+Time:    01/04/2021 4:24:08 CH
+State:    Restricted Access
+Time:   01/04/2021 4:26:35 CH
+State:   Restricted Access
+Time:  02/04/2021 1:01:39 CH
+State:  Access denied
+Time: 02/04/2021 2:10:15 CH
+State: Access denied

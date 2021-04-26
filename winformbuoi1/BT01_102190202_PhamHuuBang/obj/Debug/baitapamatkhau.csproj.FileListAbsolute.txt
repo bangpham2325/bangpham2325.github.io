@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\bin\Debug\baitapamatkhau.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\bin\Debug\baitapamatkhau.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\bin\Debug\baitapamatkhau.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapamatkhau\obj\Debug\baitapamatkhau.pdb

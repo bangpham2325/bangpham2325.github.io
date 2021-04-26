@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.exe
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.deps.json
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.runtimeconfig.json
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.dll
+C:\Users\ASUS\source\repos\winformbuoi1\key\bin\Debug\netcoreapp3.1\key.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.dll
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\key\obj\Debug\netcoreapp3.1\key.genruntimeconfig.cache

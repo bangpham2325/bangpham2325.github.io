@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\bin\Debug\maytinh.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\bin\Debug\maytinh.exe
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\bin\Debug\maytinh.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.exe
+C:\Users\ASUS\source\repos\winformbuoi1\maytinh\obj\Debug\maytinh.pdb

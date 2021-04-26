@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\bin\Debug\brCSDL.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\bin\Debug\brCSDL.exe
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\bin\Debug\brCSDL.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.exe
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\brCSDL\obj\Debug\brCSDL.csprojAssemblyReference.cache

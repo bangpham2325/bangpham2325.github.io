@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\bin\Debug\baitapquanlysinhvien.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\bin\Debug\baitapquanlysinhvien.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\bin\Debug\baitapquanlysinhvien.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.Form2.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.exe
+C:\Users\ASUS\source\repos\winformbuoi1\baitapquanlysinhvien\obj\Debug\baitapquanlysinhvien.pdb

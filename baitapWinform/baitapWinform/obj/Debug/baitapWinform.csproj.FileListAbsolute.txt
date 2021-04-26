@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\bin\Debug\baitapWinform.exe.config
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\bin\Debug\baitapWinform.exe
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\bin\Debug\baitapWinform.pdb
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.Form1.resources
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.Properties.Resources.resources
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.exe
+C:\Users\ASUS\source\repos\baitapWinform\baitapWinform\obj\Debug\baitapWinform.pdb

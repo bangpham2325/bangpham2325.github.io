@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.exe
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.exe
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\login.dll
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\login.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview1.csproj.CopyComplete

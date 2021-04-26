@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\winformbuoi1\login\bin\Debug\login.dll
+C:\Users\ASUS\source\repos\winformbuoi1\login\bin\Debug\login.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.UserControl1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.dll
+C:\Users\ASUS\source\repos\winformbuoi1\login\obj\Debug\login.pdb

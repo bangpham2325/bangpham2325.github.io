@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.exe
+C:\Users\ASUS\source\repos\winformbuoi1\listview\bin\Debug\listview.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.exe
+C:\Users\ASUS\source\repos\winformbuoi1\listview\obj\Debug\listview.pdb

@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\bin\Debug\BT03_102190202.exe.config
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\bin\Debug\BT03_102190202.exe
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\bin\Debug\BT03_102190202.pdb
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.Form1.resources
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.GUI.Form2.resources
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.exe
+C:\Users\ASUS\source\repos\BT03_102190202\BT03_102190202\obj\Debug\BT03_102190202.pdb

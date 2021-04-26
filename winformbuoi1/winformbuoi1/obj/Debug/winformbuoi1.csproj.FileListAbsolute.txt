@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\bin\Debug\winformbuoi1.exe.config
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\bin\Debug\winformbuoi1.exe
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\bin\Debug\winformbuoi1.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.Form1.resources
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.exe
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.pdb
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.Form2.resources
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.Form3.resources
+C:\Users\ASUS\source\repos\winformbuoi1\winformbuoi1\obj\Debug\winformbuoi1.Form4.resources

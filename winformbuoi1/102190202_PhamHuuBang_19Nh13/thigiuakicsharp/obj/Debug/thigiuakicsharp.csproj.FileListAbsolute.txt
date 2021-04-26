@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.Form1.resources
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\bin\Debug\thigiuakicsharp.exe.config
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\bin\Debug\thigiuakicsharp.exe
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\bin\Debug\thigiuakicsharp.pdb
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.exe
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.pdb
+C:\Users\ASUS\source\repos\thigiuakicsharp\thigiuakicsharp\obj\Debug\thigiuakicsharp.Form2.resources
