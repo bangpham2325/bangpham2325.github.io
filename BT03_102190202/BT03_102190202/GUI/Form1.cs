@@ -36,6 +36,13 @@ namespace BT03_102190202
             }
             cbLophp.SelectedIndex = 0;
         }
+        //cach dung ne
+        // public void setCBB()
+        //{
+ //           cbLophp.Items.Add(new CBBItem { Value = 0, tenLop = "All" });
+//cbLophp.Items.AddRange( QLSV_BLL.Instance.getListCBB().toArray());
+         //   cbLophp.SelectedIndex = 0;
+       // }
         public void Show(int Id_Lop, string name)
         {
 
