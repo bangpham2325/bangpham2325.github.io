@@ -80,5 +80,13 @@ namespace brCSDL
                 return null;
             }
         }
-    }
+        public DataTable GetRecords1(string query)
+        {
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(query,cnn);
+            cnn.Open();
+            da.Fill();
+            cnn.Close();
+            return dt;
+        }
 }
