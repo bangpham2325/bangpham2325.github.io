@@ -1,0 +1,11 @@
+<div class="header_bottom">
+                <ul class="header-main-menu" id="header-main-menu">
+                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="https://bangpham2325.github.io/cv/about.html"><i class="fas fa-user-tie"></i> About Me</a></li>
+                    <li><a href="https://bangpham2325.github.io/cv/resume.html"><i class="fas fa-award"></i> Resume</a></li>
+                    <li><a href="https://bangpham2325.github.io/cv/portfolio.html"><i class="fas fa-business-time"></i> Portfolio</a></li>
+                    <li><a href="https://bangpham2325.github.io/cv/blog.html"><i class="fas fa-book-reader"></i> Blog</a></li>
+                    <li><a href="https://bangpham2325.github.io/cv/contact.html"><i class="fas fa-paper-plane"></i> Contact</a></li>
+                    <div class="copyrights">© 2019 All rights reserved.</div>
+                </ul>
+            </div>
