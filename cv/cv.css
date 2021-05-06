@@ -2477,6 +2477,9 @@ textarea{
     .social_block li{
         margin: 3px 5px;
     }
+    .title h2 {
+        font-size: 32px;
+    }
 }
 @media screen and (max-width:375px){
     .header{
