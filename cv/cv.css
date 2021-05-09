@@ -2229,15 +2229,15 @@ textarea{
     .resume1::before{
         left: 35px;
         top: 10px;
-        height: 75%;
+        height: 70%;
     }
     .resume1 .timeLine_content{
         float: right;
         text-align: left;
-        padding: 18px 0px 18px 30px;
+        padding: 18px 0px 18px 100px;
         margin-left: 100px;
         width: 100%;
-        left: 100px;
+        box-sizing: border-box;
     }
     .timeLine1{
         width: 100%;
@@ -2480,6 +2480,16 @@ textarea{
     .title h2 {
         font-size: 32px;
     }
+    .block-content p {
+        padding-left: 30px;
+        }
+        .block-content::before {
+            font-size:40px;
+        }
+        .footer1 img {
+            width: 80%;
+            height: 50%;
+        }
 }
 @media screen and (max-width:375px){
     .header{
@@ -2489,6 +2499,18 @@ textarea{
     }
     .nav{
         width: 100%;
+    }
+    .circle1 {
+        top: 40%;
+        right: 30%;
+    }
+    .footer1 {
+        padding-right: 20px !important;
+        padding-left: 20px;
+    }
+    .footer1 img {
+        width: 100%;
+        height: 50%;
     }
 }
 
